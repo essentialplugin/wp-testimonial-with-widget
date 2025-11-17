@@ -6,7 +6,7 @@
  * Domain Path: /languages/
  * Description: Easy to add and display client's testimonial on your website with rotator widget. Also work with Gutenberg shortcode block.
  * Author: Essential Plugin
- * Version: 3.5.5
+ * Version: 3.5.6
  * Author URI: https://essentialplugin.com
  *
  * @package WP Testimonials with rotator widget
@@ -14,7 +14,7 @@
  */
 
 if( ! defined( 'WTWP_VERSION' ) ) {
-	define( 'WTWP_VERSION', '3.5.5' ); // Version of plugin
+	define( 'WTWP_VERSION', '3.5.6' ); // Version of plugin
 }
 if( ! defined( 'WTWP_DIR' ) ) {
 	define( 'WTWP_DIR', dirname( __FILE__ ) ); // Plugin dir
